@@ -24,6 +24,7 @@
 //
 
 #import "AEAudioUnitFilter.h"
+#import "AEUtilities.h"
 
 @interface AEAudioUnitFilter () {
     AudioComponentDescription _componentDescription;
